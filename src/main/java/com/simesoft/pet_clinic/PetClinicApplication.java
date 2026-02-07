@@ -1,4 +1,4 @@
-package com.simesoft.pet_clinic.demo;
+package com.simesoft.pet_clinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

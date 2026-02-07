@@ -1,4 +1,4 @@
-package com.simesoft.pet_clinic.demo;
+package com.simesoft.pet_clinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
