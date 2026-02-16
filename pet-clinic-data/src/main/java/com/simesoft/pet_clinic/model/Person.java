@@ -3,7 +3,7 @@ package com.simesoft.pet_clinic.model;
 /**
  * @author Enrique Sime
  */
-public class Person{
+public class Person extends BaseEntity{
     private String firstName;
     private String lastName;
 
